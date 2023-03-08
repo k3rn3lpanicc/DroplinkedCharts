@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T12:49:58.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="779stepi0dLCzNksmD-U" version="21.0.2" type="github"><diagram name="Page-1" id="DpBpgc7VSNTxRCPmi6Wm">ddHNEoIgEADgp+GuYFpns7p08tCZkU2YQddBGq2nTwfMGOvE8u3C8kNY3oxnwzt5RQGa0EiMhB0JpXHCkmmY5ekk26UOaqOEL1qhVC/wGHl9KAF9UGgRtVVdiBW2LVQ2MG4MDmHZHXXYteM1bKCsuN7qTQkrne5ptvoFVC2XznF6cJmGL8X+Jr3kAocvYgVhuUG0LmrGHPT8eMu7uHWnP9nPwQy09seCKVj3nibBD7HiDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-08T12:58:25.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NpVlqGCAKWf1Rn5xa5fL" version="21.0.2" type="github">
+  <diagram name="Page-1" id="DpBpgc7VSNTxRCPmi6Wm">
+    <mxGraphModel dx="1195" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="19" y="232" width="857" height="578" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-8" value="" style="group" vertex="1" connectable="0" parent="tKAeM8FOo2cJ56iY8Boo-7">
+          <mxGeometry width="857" height="578" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-2" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=center;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry width="857" height="578" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-3" value="Droplinked Casper Contract" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="286.99737762237766" y="5.059080962800876" width="283" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-6" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="14" y="66.9948796498906" width="409" height="479.85382932166317" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-9" value="Storage Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="141.99615384615387" y="66.99396226415095" width="153" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-10" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="454" y="66.9948796498906" width="383.52" height="486.0764989059082" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-11" value="Functionalities" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="573.2636363636364" y="66.99962966021222" width="145" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-13" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="45" y="31" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAeM8FOo2cJ56iY8Boo-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tKAeM8FOo2cJ56iY8Boo-8">
+          <mxGeometry x="465" y="39.49" width="95" height="91" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
