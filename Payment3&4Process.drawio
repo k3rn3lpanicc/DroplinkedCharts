@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T08:30:59.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BNaD1IfP7KaKQwHoOyDK" version="21.0.4" type="github"><diagram name="Page-1" id="x_wp75h8Lm1Aby5fqu9Z">ddHBEoIgEADQr+FuYFpns7p08tCZkU2YQddBGq2vT2c1Y6oT8HYXdhYmsno4OdnqCyqwjEdqYOLAON/EIh6XSR4k6TYhqJxRRNEKhXnCXLno3SjoZiPyiNabNsQSmwZKH5h0Dvsw7YZWBdDKCoI2JihKaeEr7WqU16Q7nq5+BlPp5eVNsqdILZfk+eJOS4X9B4mcicwhetrVQwZ2Gl44l+Of6LsxB43/UTBu1rvHQ/BDIn8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-10T08:53:20.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vgrMBtObW66eG2tQrT_1" version="21.0.4" type="github">
+  <diagram name="Page-1" id="x_wp75h8Lm1Aby5fqu9Z">
+    <mxGraphModel dx="2087" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-45" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-304" y="63.5" width="1224" height="806" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeWidth=2;shadow=0;jumpStyle=none;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-1" target="TiJUaZuvHDLr-xOnbehj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-1" value="&lt;b&gt;&lt;i&gt;1.&lt;/i&gt;&lt;/b&gt; Get an API key&lt;br&gt;&amp;amp; Build a USDT&lt;br&gt;Wallet on Kucoin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="27" y="148" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-2" value="&lt;b&gt;&lt;i&gt;2.&lt;/i&gt;&lt;/b&gt; Buy X USDTs&lt;br&gt;Where X is the&amp;nbsp;&lt;br&gt;Maximum price&lt;br&gt;of products&lt;br&gt;till now" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="328" y="148" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeWidth=2;shadow=0;jumpStyle=none;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-4" target="TiJUaZuvHDLr-xOnbehj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Fiat pay&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;fontStyle=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="TiJUaZuvHDLr-xOnbehj-7">
+          <mxGeometry x="-0.2727" relative="1" as="geometry">
+            <mxPoint x="17" y="-93" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-44" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Fiat pay&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;fontStyle=0;labelBackgroundColor=none;fontColor=#006600;" vertex="1" connectable="0" parent="TiJUaZuvHDLr-xOnbehj-7">
+          <mxGeometry x="-0.2727" relative="1" as="geometry">
+            <mxPoint x="17" y="-93" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="388" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="352" y="413" />
+              <mxPoint x="290" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-4" value="&lt;b&gt;&lt;i&gt;3.&lt;/i&gt;&lt;/b&gt; User pays with&lt;br&gt;fiat, on stripe or etc" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="323" y="368" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeWidth=2;shadow=0;jumpStyle=none;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-6" target="TiJUaZuvHDLr-xOnbehj-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="127" y="596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeWidth=2;shadow=0;jumpStyle=none;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-102" y="629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;i&gt;4.&lt;/i&gt;&lt;/b&gt; When the &lt;br&gt;payment is done, buy CSPR with Kucoin&lt;br&gt;wallet&#39;s USDTs&lt;br&gt;&lt;/font&gt;Same amount as user&#39;s payment" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="27" y="368" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeWidth=2;shadow=0;jumpStyle=none;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-11" target="TiJUaZuvHDLr-xOnbehj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-11" value="&lt;b&gt;&lt;i&gt;6.&lt;/i&gt;&lt;/b&gt; Called contract,&lt;br&gt;will transfer the NFT to Droplinked&#39;s Wallet" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="324" y="627" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeWidth=2;shadow=0;jumpStyle=none;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-12" target="TiJUaZuvHDLr-xOnbehj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;i&gt;5.&lt;/i&gt;&lt;/b&gt; Transfer the bought CSPRs, to the Droplinked&#39;s Wallet,&lt;br&gt;and buy the product&lt;br&gt;with that wallet&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="28" y="627" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-14" target="TiJUaZuvHDLr-xOnbehj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-14" value="CSPR Buy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="355" width="115" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-15" target="TiJUaZuvHDLr-xOnbehj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-15" value="Step 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="85.5" y="89" width="82" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-16" target="TiJUaZuvHDLr-xOnbehj-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="519" y="158" />
+              <mxPoint x="496" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-16" value="Buy Needed Amount of USDT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="281" y="102" width="291" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;i&gt;5&#39;.&lt;/i&gt;&lt;/b&gt; Recharge the Kucoin Wallet&#39;s USDT amount, with the USDs fetched from user with Stripe&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-203" y="629" width="197" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-19" target="TiJUaZuvHDLr-xOnbehj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-19" value="USDT Recharge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-276" y="591" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-20" target="TiJUaZuvHDLr-xOnbehj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-20" value="Product Buy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="587" width="138" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-22" target="TiJUaZuvHDLr-xOnbehj-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="647" />
+              <mxPoint x="353" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-22" value="NFT Transfer to Droplinked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="213" y="591" width="284" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-24" value="&lt;b&gt;&lt;i&gt;7.&lt;/i&gt;&lt;/b&gt; Droplinked, will&lt;br&gt;&amp;nbsp;keep record of these NFTs, and will return them to their owner with a QR code later" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="595" y="499" width="212" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TiJUaZuvHDLr-xOnbehj-26" target="TiJUaZuvHDLr-xOnbehj-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="519" />
+              <mxPoint x="626" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-26" value="NFT Return to its true owner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="560" y="463" width="301" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-41" value="NFT Return to its true owner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="560" y="463" width="301" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-42" value="Buy Needed Amount of USDT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="281" y="102" width="291" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TiJUaZuvHDLr-xOnbehj-43" value="Step 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="85.5" y="89" width="82" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
