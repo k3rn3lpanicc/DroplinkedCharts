@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T18:32:41.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1nSJ21UEjxJtQ-a19luV" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T18:38:59.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="flYQ6JPru7XEirk7MXsF" version="21.0.6" type="github">
   <diagram name="Page-1" id="mScG39xNwae3sNDc6WoO">
-    <mxGraphModel dx="2087" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="QqtFe9Oyp5fte1WvcNWB-3" value="&lt;b&gt;First Rule :&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="-9" y="134" width="130" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="QqtFe9Oyp5fte1WvcNWB-4" target="QqtFe9Oyp5fte1WvcNWB-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QqtFe9Oyp5fte1WvcNWB-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Discount Ruleset&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="45" width="233" height="46" as="geometry" />
@@ -114,6 +117,72 @@
               <mxPoint x="-43" y="389" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-41" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-23.5" y="656" width="633" height="429" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-42" value="&lt;b&gt;First Rule :&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="671" width="130" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="QqtFe9Oyp5fte1WvcNWB-43" target="QqtFe9Oyp5fte1WvcNWB-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Gating Ruleset&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="190.5" y="595" width="201" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="14" y="715" width="558" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-45" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-44">
+          <mxGeometry width="558" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Contract Addresses(Hashes) (comma seprated)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-44">
+          <mxGeometry x="16" y="9" width="283" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ff2f649f127c033d744f80e7c3bcf0561c716d8f6d1dadc0cd79d8b2d309c020 , ...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-44">
+          <mxGeometry x="24" y="35" width="402" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-50" value="Counter :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-44">
+          <mxGeometry x="16" y="73" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-51" value="10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-44">
+          <mxGeometry x="158" y="78" width="47" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="12" y="886" width="558" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-54" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-53">
+          <mxGeometry width="558" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Contract Addresses(Hashes) (comma seprated)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-53">
+          <mxGeometry x="16" y="9" width="283" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;fcb1239c12c1675ab123768761278638fff123f938a12bbdadc0cd79d8b2d309c020 , ...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-53">
+          <mxGeometry x="24" y="35" width="402" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-59" value="Counter :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-53">
+          <mxGeometry x="16" y="68" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-60" value="4" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="QqtFe9Oyp5fte1WvcNWB-53">
+          <mxGeometry x="158" y="73" width="47" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-61" value="&lt;b&gt;Second Rule :&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="850" width="144" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-62" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;.&lt;br&gt;.&lt;br&gt;.&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="992" width="21" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-63" value="Rules will be sorted by their&amp;nbsp;&lt;br&gt;Discount amount, and checked&lt;br&gt;by that order, the first rule&lt;br&gt;that passes, the process&amp;nbsp;&lt;br&gt;finishes, and the discount will&lt;br&gt;be taken into account, if&amp;nbsp;&lt;br&gt;none of them passed,&lt;br&gt;0% discount will be taken&lt;br&gt;into account" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="782" y="137" width="394" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;How It works?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="898" y="173" width="162" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-66" value="Rules, will be checked one by one,&amp;nbsp;&lt;br&gt;the first rule that passed, the gating&amp;nbsp;&lt;br&gt;is done, and user can purchase the&lt;br&gt;product, if no rule gets to pass,&amp;nbsp;&lt;br&gt;the user can not purchase that&lt;br&gt;product" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="782" y="713" width="394" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="QqtFe9Oyp5fte1WvcNWB-67" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;How It works?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="898" y="778" width="162" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
