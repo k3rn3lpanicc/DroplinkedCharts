@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T12:42:30.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="agrTHR2G2vrSVQ4ENEkU" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T13:28:46.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YSU936qGswVKnJ9akGtE" version="21.2.3" type="github">
   <diagram name="Page-1" id="OLOhkXiSuJ2QiRXnVus5">
     <mxGraphModel dx="1595" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kt9dFIgQAJ27Sunk41An-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-147" y="7" width="969" height="948" as="geometry" />
+          <mxGeometry x="-151" y="18" width="969" height="596" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-2" value="Q-Server FLOW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;fontFamily=Architects Daughter;fontColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="23" width="298" height="55" as="geometry" />
@@ -14,37 +14,77 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;gets the Incoming Request from Backend, including deploy_hash&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="107" width="188" height="120" as="geometry" />
+          <mxGeometry x="-21" y="107" width="188" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="kt9dFIgQAJ27Sunk41An-4" target="kt9dFIgQAJ27Sunk41An-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Has a table of Intervals, &lt;br&gt;which maps each network name to its interval.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="256" y="107" width="188" height="120" as="geometry" />
+          <mxGeometry x="247" y="107" width="188" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="kt9dFIgQAJ27Sunk41An-6" target="kt9dFIgQAJ27Sunk41An-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-6" value="Adds that request to the Queue and modifies the DB for it" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="524" y="107" width="188" height="120" as="geometry" />
+          <mxGeometry x="515" y="107" width="188" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="kt9dFIgQAJ27Sunk41An-8" target="kt9dFIgQAJ27Sunk41An-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kt9dFIgQAJ27Sunk41An-8" value="Gets the whole events &amp;amp; transactions between 2 Intervals for each network" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="524" y="307" width="188" height="120" as="geometry" />
+        <mxCell id="kt9dFIgQAJ27Sunk41An-8" value="After each Interval, Queue server will check for ALL deploy hashes in it&#39;s queue that are for that network" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="515" y="307" width="188" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="kt9dFIgQAJ27Sunk41An-10" target="kt9dFIgQAJ27Sunk41An-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-10" value="&lt;font color=&quot;#99ff99&quot;&gt;For Instance, if Interval of Casper is 2 Mins, It will check all of the deploys in the Queue each 2 minutes, and handles the ones which are submitted into chain&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="246" y="300" width="180" height="134" as="geometry" />
+          <mxGeometry x="237" y="300" width="180" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="kt9dFIgQAJ27Sunk41An-12" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="kt9dFIgQAJ27Sunk41An-1" target="kt9dFIgQAJ27Sunk41An-1">
+        <mxCell id="kt9dFIgQAJ27Sunk41An-12" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-146" y="741" as="sourcePoint" />
-            <mxPoint x="823" y="718" as="targetPoint" />
+            <mxPoint x="-151" y="469" as="sourcePoint" />
+            <mxPoint x="818" y="469" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kt9dFIgQAJ27Sunk41An-13" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;&lt;u&gt;Interval&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;: The amount of time needed for each network, that it&#39;s transactions are finalized, &lt;br style=&quot;font-size: 16px;&quot;&gt;For Casper, STX, and NEAR it&#39;s :&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ccffcc&quot;&gt;Casper &lt;/font&gt;: 2 mins&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ccffcc&quot;&gt;STX &lt;/font&gt;: 10 mins&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ccffcc&quot;&gt;NEAR &lt;/font&gt;: 10 seconds&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="-134" y="732" width="696" height="108" as="geometry" />
+          <mxGeometry x="-132" y="494" width="696" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-14" value="For Each deploy that is checked, keep the returned Event&#39;s data in Q&#39;s DB &amp;amp; call the deploy&#39;s callback" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="308" width="188" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.15;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;strokeColor=#A50040;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124" y="99" as="sourcePoint" />
+            <mxPoint x="174.3499999999999" y="98.72400000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-17" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=15;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fillColor=none;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="433" y="73" width="76" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-18" value="Casper : 2m" style="text;strokeColor=#A50040;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Architects Daughter;fontColor=#ffffff;" vertex="1" parent="kt9dFIgQAJ27Sunk41An-17">
+          <mxGeometry y="15" width="76" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=#A50040;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Architects Daughter;fontColor=#ffffff;" vertex="1" parent="kt9dFIgQAJ27Sunk41An-17">
+          <mxGeometry y="38" width="76" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-23" value="+" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="687" y="85" width="46" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-24" value="" style="shape=collate;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="709" y="303" width="29" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="325" width="12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-30" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" target="kt9dFIgQAJ27Sunk41An-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-39" y="325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kt9dFIgQAJ27Sunk41An-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" source="kt9dFIgQAJ27Sunk41An-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-39" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
